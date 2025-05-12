@@ -1,0 +1,13 @@
+# User specific files
+xcuserdata
+*.xcuserstate
+*.xccheckout
+*.xcscmblueprint
+project.xcworkspace
+Build
+Release
+.swiftpm/xcode/xcuserdata/
+
+# OS Specific files
+.DS_Store*
+._*
