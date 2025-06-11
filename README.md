@@ -11,7 +11,7 @@ To add LMDCapping in a SwiftPM project, add it to your Package.swift:
 
 ```
 dependencies: [
-  .package(url: "https://github.com/lemonde/capping-spm.git", from: "1.3.0")
+  .package(url: "https://github.com/lemonde/capping-spm.git", from: "1.3.1")
 ]
 ```
 
